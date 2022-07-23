@@ -1,6 +1,8 @@
 # Welcome to [Orbis Labs](http://orbisprotocol.com/)
 
-A cryptography firm working on zero-knowledge proofs and blockchain scaling technologies. Check our projects:
+A cryptography firm working on zero-knowledge proofs and blockchain scaling technologies. 
+
+Our projects:
 
 - [Orbis](https://github.com/Orbis-Tertius/Orbis): a general-purpose layer 2 zk-rollup on Cardano
 
