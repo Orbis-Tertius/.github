@@ -8,7 +8,7 @@ Our projects:
 
 - [dzkp](https://github.com/Orbis-Tertius/zkp): an arithmetization-friendly formally verified Halo 2 programming toolchain
 
-- [OSL](https://github.com/Orbis-Tertius/Orbis): a general-purpose specification language for rollup circuits
+- [OSL](https://github.com/Orbis-Tertius/Orbis): a general-purpose specification language for zk-rollup circuits
 
 ### Join Us
 
