@@ -1,6 +1,6 @@
-# Welcome to [Orbis](http://orbisprotocol.com/)
+# Welcome to [Orbis Labs](http://orbisprotocol.com/)
 
-We build innovative functional programming technology. Check our projects:
+A cryptography firm building zero-knowledge proofs and blockchain technologies. Check our projects:
 
 - [Orbis](https://github.com/Orbis-Tertius/Orbis): a general-purpose layer 2 zk-rollup on Cardano
 
