@@ -6,9 +6,9 @@ Our projects:
 
 - [Orbis](https://github.com/Orbis-Tertius/Orbis): a general-purpose layer 2 zk-rollup on Cardano
 
-- [dzkp](https://github.com/Orbis-Tertius/zkp): an arithmetization-friendly formally verified Halo 2 programming toolchain
-
 - [OSL](https://github.com/Orbis-Tertius/Orbis): a general-purpose specification language for zk-rollup circuits
+
+- [dzkp](https://github.com/Orbis-Tertius/zkp): an arithmetization-friendly formally verified Halo 2 programming toolchain
 
 ### Join Us
 
