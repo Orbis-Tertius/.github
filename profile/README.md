@@ -1,4 +1,4 @@
-# Welcome to [Orbis Labs](http://orbisprotocol.com/)
+# Welcome to Orbis Labs
 
 A cryptography firm working on zero-knowledge proofs and blockchain scaling technologies. 
 
