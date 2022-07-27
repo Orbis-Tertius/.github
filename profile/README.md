@@ -8,7 +8,7 @@ Our projects:
 
 - [OSL](https://github.com/Orbis-Tertius/Orbis): a general-purpose specification language for zk-rollup circuits
 
-- [dzkp](https://github.com/Orbis-Tertius/zkp): a formally verified zero-knowledge proofs programming toolchain
+- [Miya](https://github.com/Orbis-Tertius/zkp): a formally verified zero-knowledge proofs programming toolchain
 
 ### Join Us
 
