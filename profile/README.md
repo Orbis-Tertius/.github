@@ -6,7 +6,7 @@ Our projects:
 
 - [Orbis](https://github.com/Orbis-Tertius/Orbis): a general-purpose layer 2 zk-rollup on Cardano
 
-- [OSL](https://github.com/Orbis-Tertius/Orbis): a general-purpose specification language for zk-rollup circuits
+- OSL <!--](https://github.com/Orbis-Tertius/Orbis)-->: a general-purpose specification language for zk-rollup circuits
 
 - Miya <!--](https://github.com/Orbis-Tertius/zkp)-->: a formally verified zero-knowledge proofs programming toolchain
 
