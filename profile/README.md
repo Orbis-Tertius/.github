@@ -16,6 +16,8 @@ Arithmetization of Σ¹₁ Relations in Halo 2: https://eprint.iacr.org/2022/777
 
 Orbis Specification Language: a type theory for zk-SNARK programming: https://eprint.iacr.org/2022/1003
 
+Arithmetization of Σ¹₁ relations with polynomial bounds in Halo 2: https://eprint.iacr.org/2022/1105
+
 ### Join Us
 
 [![Orbis Community Discord](https://img.shields.io/discord/967512258877984798.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/orbisprotocol)
