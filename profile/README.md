@@ -12,7 +12,7 @@ Our projects:
 
 # Published Papers
 
-Arithmetization of Σ¹₁ Relations in Halo 2: https://eprint.iacr.org/2022/777
+Arithmetization of Σ¹₁ relations in Halo 2: https://eprint.iacr.org/2022/777
 
 Orbis Specification Language: a type theory for zk-SNARK programming: https://eprint.iacr.org/2022/1003
 
