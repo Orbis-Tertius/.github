@@ -18,7 +18,9 @@ Orbis Specification Language: a type theory for zk-SNARK programming: https://ep
 
 Arithmetization of Σ¹₁ relations with polynomial bounds in Halo 2: https://eprint.iacr.org/2022/1105
 
-Arithmetization of Functional Program Execution via Interaction Nets in Halo 2: https://eprint.iacr.org/2022/....
+Arithmetization of Functional Program Execution via Interaction Nets in Halo 2: https://eprint.iacr.org/2022/1211
+
+A summary on the FRI low degree test: https://eprint.iacr.org/2022/1216
 
 ### Join Us
 
